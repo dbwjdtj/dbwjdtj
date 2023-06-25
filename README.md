@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   I'll move forward enjoying the effort and learning.
 </p>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=dbwjdtj)]
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwjdtj)]
 
 <h3>🚀 Stack</h3>
 <div style="display: flex;">
