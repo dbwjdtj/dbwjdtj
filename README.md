@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   I'll move forward enjoying the effort and learning.
 </p>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yujeong1018)](https://velog.io/@yujeongseo/%EB%B3%B5%EC%8A%B5)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yujeong1018&slug=복습)](https://velog.io/@yujeongseo/%EB%B3%B5%EC%8A%B5)
 
 <h3>🚀 Stack</h3>
 <div style="display: flex;">
