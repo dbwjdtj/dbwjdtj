@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwjdtj)](https://github.com/eungyeole/velog-readme-stats)
-
 <p>
   풀스텍 개발자를 꿈꾸며 공부하고 있는 서유정입니다.
   </br>
