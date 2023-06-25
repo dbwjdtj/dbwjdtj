@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  ### Hi there 👋 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=dbwjdtj)](https://velog.io/@dbwjdtj)
+  ### Hi there 👋 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=dbwjdtj)](https://velog.io/@eungyeole) 
 </div>
 
 <!--
