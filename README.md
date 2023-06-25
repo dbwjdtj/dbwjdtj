@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center;">
-  ### Hi there 👋 
-  <a href="https://velog.io/@dbwjdtj"><img src="https://img.shields.io/badge/dbwjdtj%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dbwjdtj"/></a>
-</div>
+
+<a href="https://velog.io/@dbwjdtj"><img src="https://img.shields.io/badge/dbwjdtj%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dbwjdtj"/>
+### Hi there 👋 
 
 <!--
 **dbwjdtj/dbwjdtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
