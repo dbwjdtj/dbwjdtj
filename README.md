@@ -1,5 +1,5 @@
 
-<a href="https://velog.io/@dbwjdtj"><img src="https://img.shields.io/badge/dbwjdtj%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dbwjdtj"/>
+<a href="https://velog.io/dbwjdtj"><img src="https://img.shields.io/badge/dbwjdtj%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dbwjdtj"/>
 ### Hi there 👋 
 
 <!--
