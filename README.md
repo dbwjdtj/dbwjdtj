@@ -1,6 +1,3 @@
-
-<a href="https://velog.io/dbwjdtj"><img src="https://img.shields.io/badge/dbwjdtj%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dbwjdtj"/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwjdtj)](https://github.com/eungyeole/velog-readme-stats)
 ### Hi there 👋 
 
 <!--
@@ -29,6 +26,8 @@ Here are some ideas to get you started:
   </br>
   I'll move forward enjoying the effort and learning.
 </p>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwjdtj)](https://github.com/eungyeole/velog-readme-stats)
 
 <h3>🚀 Stack</h3>
 <div style="display: flex;">
