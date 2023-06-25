@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   I'll move forward enjoying the effort and learning.
 </p>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zaman17&color=dark)](https://velog.io/@yujeong1018)
+
 <h3>🚀 Stack</h3>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
