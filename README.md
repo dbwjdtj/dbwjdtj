@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   I'll move forward enjoying the effort and learning.
 </p>
 
-<img src="https://camo.githubusercontent.com/09208727e0fbb5a78f39ed1c6ecab5d4289eebfb8a5b723b08c3973ee4acbca3/68747470733a2f2f76656c6f672d726561646d652d73746174732e76657263656c2e6170702f6170693f6e616d653d65756e6779656f6c65" alt="Velog's GitHub stats" data-canonical-src="https://velog-readme-stats.vercel.app/api?name=eungyeole" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/09208727e0fbb5a78f39ed1c6ecab5d4289eebfb8a5b723b08c3973ee4acbca3/68747470733a2f2f76656c6f672d726561646d652d73746174732e76657263656c2e6170702f6170693f6e616d653d65756e6779656f6c65" alt="Velog's GitHub stats" data-canonical-src="https://velog-readme-stats.vercel.app/api?name=dbwjdtj" style="max-width: 100%;">
 
 <h3>🚀 Stack</h3>
 <div style="display: flex;">
