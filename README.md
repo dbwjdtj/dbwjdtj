@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   ### Hi there 👋 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole)
+  <a href="https://velog.io/@dbwjdtj"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dbwjdtj"/></a>
 </div>
 
 <!--
