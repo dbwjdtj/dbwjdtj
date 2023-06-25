@@ -1,5 +1,6 @@
 
 <a href="https://velog.io/dbwjdtj"><img src="https://img.shields.io/badge/dbwjdtj%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dbwjdtj"/>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yujeongseo)](https://github.com/eungyeole/velog-readme-stats)
 ### Hi there 👋 
 
 <!--
