@@ -27,9 +27,7 @@ Here are some ideas to get you started:
   I'll move forward enjoying the effort and learning.
 </p>
 
-<img src="https://camo.githubusercontent.com/09208727e0fbb5a78f39ed1c6ecab5d4289eebfb8a5b723b08c3973ee4acbca3/68747470733a2f2f76656c6f672d726561646d652d73746174732e76657263656c2e6170702f6170693f6e616d653d65756e6779656f6c65" alt="Velog's GitHub stats" data-canonical-src="https://velog-readme-stats.vercel.app/api?name=dbwjdtj" style="max-width: 100%;">
-
-<img src="https://velog-readme-stats.vercel.app/api?name=@dbwjdtj&amp;color=dark">
+<img src="https://camo.githubusercontent.com/da92cb21829e38097fe06f2f4a6a81dae7477fe0ad34b5a5068ea43678f3b933/68747470733a2f2f76656c6f672d726561646d652d73746174732e76657263656c2e6170702f6170693f6e616d653d73696c7665726265656e26736c75673d4e617665722d4d61702d2545432539452539302545432539432541302545422541312541442545412542322538432d254544253939253943254543253941254139254544253935253938254541254238254230" alt="Velog's GitHub stats" data-canonical-src="https://velog-readme-stats.vercel.app/api?name=dbwjdtj&amp;slug=복습" style="max-width: 100%;">
 
 <h3>🚀 Stack</h3>
 <div style="display: flex;">
