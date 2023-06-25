@@ -1,5 +1,3 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwjdtj)](https://velog.io/@dbwjdtj/%EB%B3%B5%EC%8A%B5)
-
 ### Hi there 👋 
 
 <!--
@@ -67,5 +65,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 </div>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwjdtj)](https://velog.io/@dbwjdtj/%EB%B3%B5%EC%8A%B5)
 
 <div></div>
